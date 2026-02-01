@@ -1,0 +1,554 @@
+This Links can you use for VLC and all Streaming Player and TV Apps that used http!
+
+#EXTM3U
+#EXTINF:-1,1-2-3 TV
+https://123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1,3Sat
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+
+#EXTINF:-1,Alex Berlin
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+
+#EXTINF:-1,Allgäu TV HD
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1,Altenburg TV
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+
+#EXTINF:-1,Anixe HD Serie
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1,Anixe+
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+
+#EXTINF:-1,Antenne Kaernten Visual Radio (AT)
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1,Antenne Steiermark Visual Radio (AT)
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1,ARD Alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+
+#EXTINF:-1,Aristo TV
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+
+#EXTINF:-1,arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1,arte (Stream 2)
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+
+#EXTINF:-1,ATV HD (AT)
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+
+#EXTINF:-1,ATV2 HD (AT)
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
+
+#EXTINF:-1,Augsburg TV HD
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
+#EXTINF:-1,Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1,Bibel TV
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+
+#EXTINF:-1,Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+
+#EXTINF:-1,BLK Regional TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+
+#EXTINF:-1,BR
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:-1,BR (Stream 2)
+https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8
+
+#EXTINF:-1,Comedy Central
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+
+#EXTINF:-1,Das Ding 90.8 Visual Radio
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
+#EXTINF:-1,Das Erste (ARD)
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+
+#EXTINF:-1,Das Wort TV
+https://stream.daswort.tv/master.m3u8
+
+#EXTINF:-1,Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1,Deluxe Deutschpop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
+#EXTINF:-1,Deluxe Lounge HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1,Deluxe Lounge HD (Stream 2)
+https://jmp2.uk/stvp-CHAJ0500413A
+
+#EXTINF:-1,Deluxe Music
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+
+#EXTINF:-1,Deluxe Music HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1,Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1,Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+
+#EXTINF:-1,Disney Channel
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+
+#EXTINF:-1,Disney Channel HD
+https://strm.hdtvizlecanli.com/live/disney.m3u8
+
+#EXTINF:-1,DMAX HD
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
+
+#EXTINF:-1,Dokusat
+https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
+
+#EXTINF:-1,Echt Jetzt
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+
+#EXTINF:-1,Ems TV
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+
+#EXTINF:-1,Erz TV
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+
+#EXTINF:-1,EWTN
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+
+#EXTINF:-1,Filstalwelle
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1,Flensburg TV
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+
+#EXTINF:-1,Franken TV HD
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+
+#EXTINF:-1,h1
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1,Hitradio Ö3 Visual Radio (AT)
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest.m3u8
+
+#EXTINF:-1,HR
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+
+#EXTINF:-1,HSE Extra HD
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1,HSE HD
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1,HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1,iStuff
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+
+#EXTINF:-1,Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+
+#EXTINF:-1,K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1,Kabel 1 HD
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
+#EXTINF:-1,Kanal 12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+
+#EXTINF:-1,KaufBei TV
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+
+#EXTINF:-1,Kiel TV
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+
+#EXTINF:-1,KiKa
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+
+#EXTINF:-1,KiKa (Stream 2)
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1,KIT TV (AT)
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+
+#EXTINF:-1,KulturMD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+
+#EXTINF:-1,L TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+
+#EXTINF:-1,Labor 14 HD
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+
+#EXTINF:-1,Lausitzwelle
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8
+
+#EXTINF:-1,Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+
+#EXTINF:-1,MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+
+#EXTINF:-1,MDR
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+
+#EXTINF:-1,More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1,München TV HD
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+
+#EXTINF:-1,NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+#EXTINF:-1,Nickelodeon/Comedy Central +1
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+
+#EXTINF:-1,Nickelodeon/Comedy Central +1 (Stream 2)
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1,Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+
+#EXTINF:-1,Nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+
+#EXTINF:-1,Nitro (Stream 2)
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+
+#EXTINF:-1,noa 4 Hamburg HD
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+
+#EXTINF:-1,noa 4 Noderstedt HD
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+
+#EXTINF:-1,NRWision HD
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+
+#EXTINF:-1,ntv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+
+#EXTINF:-1,ntv HD
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+
+#EXTINF:-1,Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+
+#EXTINF:-1,OK Dessau
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+
+#EXTINF:-1,OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+
+#EXTINF:-1,OK Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+
+#EXTINF:-1,OK Magdeburg
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+
+#EXTINF:-1,OK Merseburg-Querfurt
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+
+#EXTINF:-1,OK Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+
+#EXTINF:-1,OK Salzwedel
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+
+#EXTINF:-1,OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+
+#EXTINF:-1,OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+
+#EXTINF:-1,OK4
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+
+#EXTINF:-1,OK54
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+
+#EXTINF:-1,Okto (AT)
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#EXTINF:-1,One
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+
+#EXTINF:-1,ORF 1 (AT)
+https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+
+#EXTINF:-1,ORF 1 HD (AT)
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+
+#EXTINF:-1,ORF 2 HD (AT)
+https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1,ORF 2 HD (Stream 2)
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+
+#EXTINF:-1,ORF III HD (AT) (nicht immer On)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+
+#EXTINF:-1,ORF Kids (AT)
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+
+#EXTINF:-1,Parlamentsfernsehen 1
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+
+#EXTINF:-1,Parlamentsfernsehen 2
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u
+
+#EXTINF:-1,Parlamentsfernsehen 3
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+
+#EXTINF:-1,Parlamentsfernsehen 4
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+
+#EXTINF:-1,Phoenix
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+
+#EXTINF:-1,Pro 7 HD (Stream 2)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1,PunktUM
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+
+#EXTINF:-1,QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+
+#EXTINF:-1,QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+
+#EXTINF:-1,R9 (AT)
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+
+#EXTINF:-1,Radio Weser TV Bremen HD
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+
+#EXTINF:-1,Ran1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+
+#EXTINF:-1,RBB
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
+
+#EXTINF:-1,RBW
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+
+#EXTINF:-1,Regio TV Schwaben
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1,Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+
+#EXTINF:-1,Rennsteig TV
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+
+#EXTINF:-1,RFH HD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+
+#EXTINF:-1,RFO HD
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1,RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1,RiC (Stream 2)
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
+
+#EXTINF:-1,RNF (RheinNeckar Fernsehen)
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+
+#EXTINF:-1,RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+
+#EXTINF:-1,RTL
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+
+#EXTINF:-1,RTL (Stream 2)
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+
+#EXTINF:-1,RTL 2
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+
+#EXTINF:-1,RTL 2 (Stream 2)
+https://dash2.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1,RTL Super
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+
+#EXTINF:-1,RTL Super (Stream 2)
+https://dash2.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+
+#EXTINF:-1,Saarland Fernsehen 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+
+#EXTINF:-1,Saarland Fernsehen 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+
+#EXTINF:-1,Glück Auf! TV (or: Sachsen Eins)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+
+#EXTINF:-1,Sachsen Fernsehen Chemnitz
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+
+#EXTINF:-1,Sachsen Fernsehen Dresden
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+
+#EXTINF:-1,Sachsen Fernsehen Leipzig
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+
+#EXTINF:-1,Salve TV
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+
+#EXTINF:-1,Sat 1 Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+#EXTINF:-1,Sat 1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+
+#EXTINF:-1,Schladming-Dachstein TV (AT)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1,Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+#EXTINF:-1,Seenluft24
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
+
+#EXINF:-1,Servus TV HD (AT) (Stream 2)
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+
+#EXTINF:-1,Sixx HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+
+#EXTINF:-1,Sonnenklar TV HD
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+
+#EXTINF:-1,SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+
+#EXTINF:-1,SRF 1 (CH)
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+
+#EXTINF:-1,SRF 2 (CH)
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+
+#EXTINF:-1,SRF Info (CH)
+
+#EXTINF:-1,SRF HD (Südthüringer Regional Fernsehen)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+
+#EXTINF:-1,SRF Info (CH)
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+
+#EXTINF:-1,Steiermark TV
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8
+
+#EXTINF:-1,Stimmungsgarten TV
+https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8
+
+#EXTINF:-1,Studio 47
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1,SWR
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+
+#EXTINF:-1,SWR 3 Visual Radio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+
+#EXTINF:-1,Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1,Tele 5
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+
+#EXTINF:-1,TIDE
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1,Tirol TV (AT)
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+
+#EXTINF:-1,TLC HD
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+
+#EXTINF:-1,TV 1 Oberösterreich (AT)
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+
+#EXTINF:-1,TV Aktuell HD (Ostbayern)
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+
+#EXTINF:-1,TV Ingolstadt HD
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1,TV Mainfranken HD
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+
+#EXTINF:-1,TV Oberfranken HD
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
+#EXTINF:-1,TV38 (Südost-Niedersachsen)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1,Volksmusik TV
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+
+#EXTINF:-1,VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+
+#EXTINF:-1,VOX (Stream 2)
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
+#EXTINF:-1,W24 (AT)
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+#EXTINF:-1,WDR
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+
+#EXTINF:-1,WDR (Stream 2)
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+
+#EXTINF:-1,Welt
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+
+#EXTINF:-1,Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1,XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,ZDF
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+
+#EXTINF:-1,ZDFinfo
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+
+#EXTINF:-1,ZDFneo
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+
+Pluto TV:
+#EXTINF:-1,Alles Kino
+https://2f5fba29f3b544e880519c3304fe81b7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_alleskino/playlist.m3u8
+
+#EXTINF:-1,Car City Adventure
+https://d39cercsbaavbw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8nbwykvjaevc/master.m3u8
+
+#EXTINF:-1,Duck TV
+https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7B
+
+#EXTINF:-1,Goldstar TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
+#EXTINF:-1,Rakuten TV Top Gear
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
